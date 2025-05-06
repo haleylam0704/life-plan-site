@@ -1,2 +1,1 @@
-# life-plan-site
-20 year plan
+personal website
